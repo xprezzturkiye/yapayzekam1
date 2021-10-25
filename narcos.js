@@ -36,4 +36,4 @@ client.on("message", async message => {
   });
   message.channel.stopTyping();
 });
-client.login("ODk4ODc0MDY2NjQ2MjIwODMy.YWqjtQ.ocYBvIYSxJqz-rppHDiYBOCakOY"); //login using the token
+client.login("sadece_craxy"); //login using the token
